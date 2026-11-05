@@ -2,6 +2,8 @@
 
 [🇧🇷 Português](README.md) | 🇺🇸 English
 
+**▶️ [Open the dashboard](https://joao-2003.github.io/sales-dashboard-brazil-map/)**: runs right in the browser, with fictitious data.
+
 A sales dashboard in a single HTML file, with no server and no local dependencies, that combines sales from two systems (an order ERP and Salesforce) with public agribusiness data by state. Built as an example for an internal learning track.
 
 > **The data is fictitious.** Sales rep names, products, cities and amounts were replaced or scaled; the public indicators (agricultural GDP and number of farms per state) come from IBGE, Brazil's statistics institute.

@@ -2,6 +2,8 @@
 
 🇧🇷 Português | [🇺🇸 English](README.en.md)
 
+**▶️ [Abrir o dashboard](https://joao-2003.github.io/sales-dashboard-brazil-map/)**: roda direto no navegador, com dados fictícios.
+
 Dashboard comercial em um único arquivo HTML, sem servidor e sem dependências locais, que cruza vendas de dois sistemas (ERP de pedidos e Salesforce) com dados públicos do agro por estado. Feito como exemplo para uma trilha de conhecimento interna.
 
 > **Os dados são fictícios.** Nomes de vendedores, produtos, cidades e valores foram substituídos ou escalados; os indicadores públicos (PIB agropecuário e número de fazendas por estado) são do IBGE.
